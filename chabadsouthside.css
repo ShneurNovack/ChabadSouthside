@@ -1,0 +1,434 @@
+   /* chabadsouthside.css */
+   #header_branding .site-logo-wrapper {
+        background: rgba(255, 255, 255, 0) !important;
+    }
+    #BodyContainer .hp-table>:nth-of-type(2n) {
+        background: rgba(230, 230, 230) !important;
+    }
+    #BodyContainer .no-hero-image #co_content_container .master-content-wrapper.master-content-wrapper {
+
+        background: #67112a !important;
+
+    }
+    #BodyContainer .no-hero-image #co_content_container .master-content-wrapper.master-content-wrapper .article-header .article-header__title {
+
+        color: #fff !important;
+        font-weight: 900 !important;
+    }
+    body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a,
+    body.cco_body #tabContentMain .co_menu_item.donate_link.hover span.parent a {
+        border: 2px solid #ffffff !important;
+    }
+    #header.on-scroll,
+    body.sites-article #header {
+        background: #67112a !important;
+    }
+    #header.on-scroll,
+    body.sites-article #header {
+        border-bottom: 1px solid #67112a !important;
+    }
+    #header.on-scroll #header_container .links .topBarLink,
+    #header.on-scroll #header_container .links .topBarLink a,
+    body.sites-article #header_container .links .topBarLink,
+    body.sites-article #header_container .links .topBarLink a {
+        color: #ffffff !important;
+    }
+    #header.on-scroll #header_container .links .top_bar_item:after,
+    body.sites-article #header_container .links .top_bar_item:after {
+        border-top: 5px solid #ffffff;
+    }
+    #header.on-scroll #header_container .links .search-trigger-container .search-trigger,
+    #header_container .links #HeaderSubscribeContainer a,
+    #header_container .links .subscribe_box .footer_box a,
+    body.sites-article #header_container .links .search-trigger-container .search-trigger {
+        color: #ffffff !important;
+    }
+    #header.on-scroll #header_container .links:after,
+    body.sites-article #header_container .links:after {
+        color: #ffffff !important;
+    }
+    #header.on-scroll .branding-search #header_branding .site_title,
+    body.sites-article .branding-search #header_branding .site_title {
+        color: #ffffff !important;
+    }
+    body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container a.item {
+        background: #891738 !important;
+    }
+    #BodyContainer .no-hero-image #co_content_container .master-content-wrapper.master-content-wrapper .article-header .breadcrumbs .breadcrumbs__crumb,
+    #BodyContainer .no-hero-image #co_content_container .master-content-wrapper.master-content-wrapper .article-header .breadcrumbs .breadcrumbs__divider {
+        color: #ffffff !important;
+    }
+    #footer .footer_text .footer3 b span:first-child,
+    #footer .footer_text .footer3 span:first-child {
+        color: #ffffff !important;
+        font-weight: 900 !important;
+    }
+    #header .not-homepage body .cs-mobile-menu-open,
+    body:not(.home) .cs-mobile-menu-open {
+        color: #ffffff !important;
+    }
+    #footer .footer_text .footer3 b span:first-child,
+    #footer .footer_text .footer3 span:first-child {
+        color: #ffffff !important;
+        font-weight: 900 !important;
+    }
+    #header .on-scroll .cs-mobile-menu-open {
+        color: #ffffff !important;
+    }
+    body.cco_body #tabContentMain .co_menu_item.hover span.parent,
+    body.cco_body #tabContentMain .co_menu_item.hover span.parent a,
+    body.cco_body #tabContentMain .co_menu_item.hover.arrow a span {
+        color: #fff !important;
+    }
+    #tabContentMain .co_menu_item.multi_level .co_submenu_container .co_column,
+    .co_menu_item.multi_level .co_submenu_container .co_column {
+        background: #737373 !important;
+    }
+    #header.on-scroll .message .wrapper .widget_content.message_format div {
+        font-size: 22px !important;
+        font-weight: 520 !important;
+    }
+    .branding-search #header_branding .site_title {
+        font-weight: 900 !important;
+    }
+    .hp-table .hp-row-first .promo_slider .slider {
+        noheight: 999px !important;
+    }
+    #tabContentMai>td>span>div>a {
+        font-weight: bold;
+    }
+    #header>td>span>div>a {
+        font-weight: bold;
+    }
+    #tabContentMain a {
+        font-weight: bold !important;
+    }
+    #header a {
+        font-weight: bold !important;
+    }
+    @media only screen and (max-width: 768px) {
+        .branding-search #header_branding .site_title {
+            margin-top: 19.6px;
+            font-size: 24px;
+            margin-left: 8px;
+            font-weight: 900;
+        }
+
+        #header.on-scroll .branding-search #header_branding .site_title,
+        body.sites-article .branding-search #header_branding .site_title {
+            margin-top: 19.6px;
+        }
+
+        .fa,
+        .fab,
+        .fad,
+        .fal,
+        .far,
+        .fas {
+            color: white;
+        }
+
+        .fa,
+        .fab,
+        .fad,
+        .fal,
+        .far,
+        .fas {
+            margin-top: 9px;
+        }
+    }
+    body.cco_body #tabContentMain .co_menu_item.selected a.parent:after {
+        content: "";
+        display: block;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: -4px;
+        width: 100%;
+        height: 2px;
+        background: #ffffff;
+    }
+    body.cco_body #tabContentMain .co_menu_item.hover span.parent,
+    body.cco_body #tabContentMain .co_menu_item.hover span.parent a,
+    body.cco_body #tabContentMain .co_menu_item.hover.arrow a span {
+        color: #ffffff9e !important;
+        font-weight: 900;
+    }
+    body.cco_body #tabContentMain .co_menu_item.selected.hover a.parent:after {
+        border-radius: 50px !important;
+    }
+    body #header.on-scroll #tabContentMain .co_menu_item.arrow .co_submenu_container a.item,
+    body #header.on-scroll #tabContentMain .co_menu_item.arrow .co_submenu_container a.item span,
+    body #header.on-scroll .cco_body #tabContentMain .donate_link,
+    body #header.on-scroll body #tabContentMain .co_menu_item span.parent,
+    body #header.on-scroll body #tabContentMain .co_menu_item span.parent a,
+    body #header.on-scroll body #tabContentMain .co_menu_item.hover span.parent,
+    body #header.on-scroll body #tabContentMain .co_menu_item.hover span.parent a,
+    body #header.on-scroll body.cco_body #tabContentMain .co_menu_item span.parent,
+    body #header.on-scroll body.cco_body #tabContentMain .co_menu_item span.parent a,
+    body #header.on-scroll body.cco_body #tabContentMain .co_menu_item.hover span.parent,
+    body #header.on-scroll body.cco_body #tabContentMain .co_menu_item.hover span.parent a,
+    body #header.on-scroll body.cco_body #tabContentMain .co_submenu_container .co_column a,
+    body.cco_body #header.on-scroll #tabContentMain .co_menu_item span.parent,
+    body.cco_body #header.on-scroll #tabContentMain .co_menu_item span.parent a,
+    body.cco_body #header.on-scroll #tabContentMain .co_menu_item.arrow .co_submenu_container a.item,
+    body.cco_body #header.on-scroll #tabContentMain .co_menu_item.arrow .co_submenu_container a.item span,
+    body.cco_body #header.on-scroll #tabContentMain .co_menu_item.hover span.parent,
+    body.cco_body #header.on-scroll #tabContentMain .co_menu_item.hover span.parent a,
+    body.cco_body #header.on-scroll #tabContentMain .co_submenu_container .co_column a,
+    body.cco_body #header.on-scroll #tabContentMain .donate_link,
+    body.cco_body.sites-article #tabContentMain .co_menu_item span.parent,
+    body.cco_body.sites-article #tabContentMain .co_menu_item span.parent a,
+    body.cco_body.sites-article #tabContentMain .co_menu_item.arrow .co_submenu_container a.item,
+    body.cco_body.sites-article #tabContentMain .co_menu_item.arrow .co_submenu_container a.item span,
+    body.cco_body.sites-article #tabContentMain .co_menu_item.hover span.parent,
+    body.cco_body.sites-article #tabContentMain .co_menu_item.hover span.parent a,
+    body.cco_body.sites-article #tabContentMain .co_submenu_container .co_column a,
+    body.cco_body.sites-article #tabContentMain .donate_link,
+    body.sites-article #tabContentMain .co_menu_item.arrow .co_submenu_container a.item,
+    body.sites-article #tabContentMain .co_menu_item.arrow .co_submenu_container a.item span,
+    body.sites-article .cco_body #tabContentMain .donate_link,
+    body.sites-article body #tabContentMain .co_menu_item span.parent,
+    body.sites-article body #tabContentMain .co_menu_item span.parent a,
+    body.sites-article body #tabContentMain .co_menu_item.hover span.parent,
+    body.sites-article body #tabContentMain .co_menu_item.hover span.parent a,
+    body.sites-article body.cco_body #tabContentMain .co_menu_item span.parent,
+    body.sites-article body.cco_body #tabContentMain .co_menu_item span.parent a,
+    body.sites-article body.cco_body #tabContentMain .co_menu_item.hover span.parent,
+    body.sites-article body.cco_body #tabContentMain .co_menu_item.hover span.parent a,
+    body.sites-article body.cco_body #tabContentMain .co_submenu_container .co_column a {
+        color: #ffffff;
+    }
+    body.cco_body #header.on-scroll #tabContentMain .co_menu_item.selected.hover a.parent:after,
+    body.cco_body.sites-article #tabContentMain .co_menu_item.selected.hover a.parent:after {
+        background: #ffffff9e !important;
+    }
+    .co_menu_item.multi_level .co_submenu_container a.item {
+        border-bottom: 1px solid #ffffff;
+        border-top: 1px solid #ffffff;
+        font-weight: 700;
+        font-size: 14px;
+        text-align: right;
+    }
+
+    #header #tabContentMain {
+        margin-top: 8px;
+    }
+
+    body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a,
+    body.cco_body #tabContentMain .co_menu_item.donate_link.hover span.parent a {
+        border: 3px solid #ffffff;
+        font-weight: 700;
+        padding: 8px 17px;
+        border-radius: 50px;
+        background-color: #f58c28d6;
+    }
+    .mobile-menu-bottom-links {
+        color: #680020;
+    }
+    #header_container .links .search-trigger-container .search-trigger {
+        color: #fff0 !important;
+        font-size: 13px;
+    }
+    .hp-table .hp-row-first .promo_slider .slider .cycle-caption big {
+        color: #ffffff;
+    }
+    .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore {
+        color: #fff;
+        font-weight: 700;
+        border: 4px solid #ffffff;
+        border-radius: 50px;
+        background: #680020;
+    }
+    .message .wrapper .widget_content .readMore {
+        color: #680020;
+        border: 3px solid #F58C28;
+        border-radius: 50px;
+    }
+    .message .wrapper .widget_content .readMore {
+        color: #ffffff;
+        border: 3px solid #891738;
+        border-radius: 50px;
+        background-color: #891738;
+        font-weight: 900;
+        padding: 10px 24px;
+    }
+    .message .wrapper .widget_content .readMore:hover {
+        color: #891738;
+        border: 0px solid #ffffff;
+        border-radius: 50px;
+        background-color: #ffffff;
+        font-weight: 900;
+        border: 3px solid #891738;
+        padding: 12px px;
+    }
+    div.chabad_left_column {
+        padding: 3px 5px 0 !important;
+        margin: 0px !important;
+    }
+    body.cco_templateless_page.mobile #navigation.chabad_navigator_bar #menu {
+        margin-top: 0px !important;
+    }
+    .hp_content_wrapper .readMore {
+        border: 2px solid #891738;
+        border-radius: 50px;
+        font-weight: 900;
+    }
+    .hp_content_wrapper .readMore:hover {
+        background: #891738;
+        color: #fff;
+        border: 2px solid #891738;
+        text-decoration: none;
+    }
+    .hp-table .hp-row-first .promo_slider .slider .cycle-caption big {
+        font-weight: 900 !important;
+        font-family: sans-serif !important;
+    }
+    .branding-search #header_branding .site_title {
+        font-family: sans-serif !important;
+    }
+    .icon .chabad_updates .widget_content .item:hover .icon img,
+    .icon .widget_content .item:hover .icon img {
+        filter: brightness(0) saturate(90%) invert(50%) sepia(40%) saturate(1000%) hue-rotate(350deg) contrast(95%);
+    }
+    .icon .chabad_updates .widget_content .item:hover .icon img,
+    .icon .widget_content .item .icon img {
+        transition: linear 0.01s;
+    }
+    .branding-search #header_branding.logo img {
+        filter: contrast(0) brightness(100) !important;
+        transition: linear 0.1s !important;
+    }
+    @media only screen and (min-width: 1018px) {
+        .hp-table .hp-row-first .promo_slider .slider .slides {
+            height: 999px !important;
+        }
+        }
+    .header-title {
+        font-family: Poppins semibold !important;
+    }
+    #header.on-scroll {
+        box-shadow: rgb(0 0 0 / 9%) 0px 2px 1px, rgb(0 0 0 / 9%) 0px 4px 2px, rgb(0 0 0 / 9%) 0px 8px 4px, rgb(0 0 0 / 9%) 0px 16px 8px, rgb(0 0 0 / 9%) 0px 32px 16px !important;
+    }
+    body.cco_body #tabContentMain .co_menu_item span.parent a,
+    body.cco_body #tabContentMain .co_menu_item.hover span.parent a {
+        font-family: 'Poppins' !important;
+    }
+    #tabContentMain .co_menu_item.arrow .co_submenu_container a.item,
+    #tabContentMain .co_menu_item.arrow .co_submenu_container a.item span,
+    .cco_body #tabContentMain .donate_link,
+    body #tabContentMain .co_menu_item span.parent,
+    body #tabContentMain .co_menu_item span.parent a,
+    body #tabContentMain .co_menu_item.hover span.parent,
+    body #tabContentMain .co_menu_item.hover span.parent a,
+    body.cco_body #tabContentMain .co_menu_item span.parent,
+    body.cco_body #tabContentMain .co_menu_item span.parent a,
+    body.cco_body #tabContentMain .co_menu_item.hover span.parent,
+    body.cco_body #tabContentMain .co_menu_item.hover span.parent a,
+    body.cco_body #tabContentMain .co_submenu_container .co_column a {
+        font-size: 16px !important;
+    }
+    .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore {
+        font-family: 'Poppins' !important;
+    }
+    #BodyContainer #co_content_container>.clearfix>.g960:not(.categorized) {
+        background-color: #67112a !important;
+    }
+    #BodyContainer .no-hero-image #co_content_container .master-content-wrapper.master-content-wrapper .article-header .article-header__title {
+        font-family: 'Poppins' !important;
+    }
+    #BodyContainer #co_content_container>.clearfix>.g960:not(.categorized) .article-header .article-header__title {
+        font-family: 'Poppins' !important;
+    }
+    #co_body_container {
+        padding-top: 20px !important;
+    }
+    #BodyContainer #co_content_container>.clearfix>.g960:not(.categorized) {
+        background-attachment: fixed;
+    }
+    .hp_subscribe .wrapper .widget_header h5 {
+        font-family: 'Poppins' !important;
+    }
+    .hp_subscribe .wrapper #formContainer fieldset input[type=submit] {
+        border-color: #ffffff;
+        background: #ffffff;
+        color: #680020;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-family: 'Poppins';
+        font-size: 18px;
+    }
+    .footer_text:after {
+        content: "Additional Web Design by Shneur Novack";
+    }
+    body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a,
+    body.cco_body #tabContentMain .co_menu_item.donate_link.hover span.parent a {
+        width: max-content;
+    }
+    .hp-row.hp_subscribe {
+        background: url(https://chabadwestboca.com/media/images/1123/KOpR11234802.jpg?v3);
+        background-size: cover;
+    }
+    .hp_subscribe .wrapper .widget_header h5 {
+        color: #690222;
+    }
+    .hp_subscribe .wrapper #formContainer fieldset input::-webkit-input-placeholder {
+        color: var(--primary-color);
+    }
+    .hp_subscribe .wrapper #formContainer fieldset input[type=submit] {
+        border-color: #690222;
+        background: #690222;
+        color: #ffffff;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-family: 'Poppins';
+        font-size: 18px;
+        border: 0px;
+    }
+    .hp_subscribe .wrapper #formContainer fieldset input[type=submit]:hover {
+        border-color: #ffffff;
+        background: #ffffff;
+        color: #891738;
+    }
+    }
+    @media only screen and (min-width: 768px) {
+
+        body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a,
+        body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a:before {
+            content: "❤ ";
+        }
+    }
+    .hp-row.hp_subscribe {
+        box-shadow: rgb(0 0 0 / 40%) 0px 30px 90px;
+    }
+
+    #footer .footer_text .footer3 b span:first-child,
+    #footer .footer_text .footer3 span:first-child {
+        font-family: 'Poppins' !important;
+        font-size: 20px;
+    }
+    .ei-popup {
+        display: none;
+        z-index: 1000;
+        position: absolute;
+        top: 0;
+        width: 100%;
+        background-color: #c30000;
+    }
+
+    #popupred {
+        height: 10px;
+        width: 100%;
+        border-collapse: collapse;
+        background-color: #c30000;
+        margin-top: 5px;
+    }
+    .cs-f-social-icons a {
+        text-decoration: none;
+        transition-duration: 0.3s;
+    }
+    .cs-f-social-icons a:hover {
+        background: #ffffff;
+        color: #420515
+    }
+
