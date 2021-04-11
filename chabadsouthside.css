@@ -430,7 +430,7 @@
 
    /* Test Code */
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 1028px) {
 #header {
     position: absolute;
     width: 100%;
