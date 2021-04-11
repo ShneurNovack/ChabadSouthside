@@ -214,14 +214,11 @@
     #header #tabContentMain {
         margin-top: 8px;
     }
-
-    body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a,
-    body.cco_body #tabContentMain .co_menu_item.donate_link.hover span.parent a {
-        border: 3px solid #ffffff;
-        font-weight: 700;
-        padding: 8px 17px;
-        border-radius: 50px;
-        background-color: #f58c28d6;
+    body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a, body.cco_body #tabContentMain .co_menu_item.donate_link.hover span.parent a {
+    border: 3px solid #ffffff!important;
+    padding: 8px 17px;
+    border-radius: 50px;
+    background-color: #680020;
     }
     .mobile-menu-bottom-links {
         color: #680020;
