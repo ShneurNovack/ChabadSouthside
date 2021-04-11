@@ -356,7 +356,7 @@
         font-size: 18px;
     }
     .footer_text:after {
-        content: "Additional Web Design by Shneur Novack";
+        content: "Additional Web Design by ShneurNovack.com";
     }
     body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a,
     body.cco_body #tabContentMain .co_menu_item.donate_link.hover span.parent a {
