@@ -428,3 +428,33 @@
         color: #420515
     }
 
+   /* Test Code */
+
+#header {
+    position: absolute;
+    width: 100%;
+    z-index: 100;
+    top: 0;
+    transition: all .3s;
+    background-color: #67112a;
+    box-shadow: 0px 3px 0px 1px rgb(255 255 255);
+}
+.header-wrapper {
+    display: grid;
+    grid-template-areas:
+        "b b"
+        "a a";
+    grid-template-rows: 70px;
+}
+.header_container {
+    grid-area: b;
+    height: 35px;
+}
+#header.on-scroll {
+    padding-bottom: 0px;
+}
+.branding-search {
+    grid-area: b;
+    margin-left: auto;
+    margin-right: auto;
+}
