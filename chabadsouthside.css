@@ -392,11 +392,10 @@
     }
     }
     @media only screen and (min-width: 768px) {
-
         body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a,
         body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a:before {
-            content: "❤ ";
-        }
+            content: "❤ "!important;
+    }
     }
     .hp-row.hp_subscribe {
         box-shadow: rgb(0 0 0 / 40%) 0px 30px 90px;
