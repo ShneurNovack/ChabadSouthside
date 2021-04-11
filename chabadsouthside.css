@@ -430,6 +430,7 @@
 
    /* Test Code */
 
+@media only screen and (min-width: 768px) {
 #header {
     position: absolute;
     width: 100%;
@@ -458,4 +459,5 @@
     grid-area: b;
     margin-left: auto;
     margin-right: auto;
+}
 }
