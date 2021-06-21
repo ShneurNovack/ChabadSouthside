@@ -1,0 +1,317 @@
+a.readMore {
+    font-size: 18px!important;
+}
+.footer_text:after {
+    content: "Additional Web Design by ShneurNovack.com";
+    color: #fff;
+}
+.chabad_updates .title, .chabad_updates a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 18px;
+    font-family: Helvetica;
+}
+.widget_content.index_format.make_scrollable {
+    font-size: 15px;
+    background-color: #871a39;
+    padding: 10px;
+    color: #fff;
+    border-radius: 10px;
+    font-weight: 600;
+}
+@media only screen and (min-width: 1000px) {
+.widget_content.index_format.make_scrollable {
+    margin: 0px 400px;
+}
+}
+@media only screen and (max-width: 600px) {
+#BodyContainer .no-hero-image #co_content_container .master-content-wrapper.master-content-wrapper {
+    background: #fbfbfb!important;
+    text-align: left;
+    padding-top: 60px!important;
+}
+}
+body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container {
+    top: 0;
+    border-top-width: 2px;
+    border-top-style: solid;
+    border-top-color: #f27730;
+}
+#donate-wrapper main .amounts button {
+    background-color: #871a39;
+    color: #fff;
+}
+#confirm-wrapper #confirm, #donate-wrapper #donate {
+    background-image: url(https://chabadofgreenfield.com/media/images/1160/whxR11603138.png);
+    background-position: center;
+    background-size: cover;
+}
+p.description {
+    color: #000!important;
+}
+.disclaimer {
+    color: #000;
+}
+.row.pay-with {
+    color: #000;
+}
+label {
+    color: #000;
+}
+.monthly-note {
+    color: #000;
+}
+#BodyContainer .no-hero-image #co_content_container .master-content-wrapper.master-content-wrapper .article-header .article-header__title {
+    margin-top: 70px!important;
+}
+body.sites-article .header-wrapper:after {
+    color: #ffffff;
+}
+@media (max-width: 1024px) {
+.site-nav-wrapper {
+    background: #871a39;
+    transition: right .5s;
+    position: fixed;
+    right: -300px;
+    top: 0;
+    height: 100vh;
+    background-image: url(https://chabadofgreenfield.com/media/images/1160/ibLD11603146.png);
+    background-size: cover;
+}
+}
+.article_index_container .co_index.article_index .row .item .title a:hover {
+    background: #871a39b0;
+}
+body.cco_body #header.on-scroll #tabContentMain .co_menu_item.selected.hover a.parent:after, body.cco_body.sites-article #tabContentMain .co_menu_item.selected.hover a.parent:after {
+    background: #ffffff;
+}
+body.cco_body #tabContentMain .co_menu_item.selected a.parent:after {
+    background: #f47721;
+}
+#BodyContainer .no-hero-image #co_content_container .master-content-wrapper.master-content-wrapper .article-header .article-header__title {
+    margin-top: 30px;
+}
+.not-homepage body .cs-mobile-menu-open, body:not(.home) .cs-mobile-menu-open {
+    color: #fffeff;
+}
+#BodyContainer .no-hero-image #co_content_container .master-content-wrapper.master-content-wrapper .article-header .article-header__title {
+    color: #871a39;
+}
+#BodyContainer .no-hero-image #co_content_container .master-content-wrapper.master-content-wrapper {
+    margin-top: -52px;
+}
+.master-content-wrapper.g960 {
+    margin-top: -60px!important;
+}
+#BodyContainer .no-hero-image #co_content_container .master-content-wrapper.master-content-wrapper {
+    background-image: url(https://chabadofgreenfield.com/media/images/1160/whxR11603138.png)!important;
+    background-size: cover!important;
+    background-position: center!important;
+}
+#footer .footer_text .footer3 b span:first-child, #footer .footer_text .footer3 span:first-child {
+    color: #ffffff;
+}
+div#footer {
+    background-image: url(https://chabadofgreenfield.com/media/images/1160/ibLD11603146.png);
+    background-size: cover;
+    background-position: center;
+}
+body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a, body.cco_body #tabContentMain .co_menu_item.donate_link.hover span.parent a {
+    background-color: #f47721!important;
+}
+body.cco_body #tabContentMain .co_menu_item.donate_link.hover span.parent div a {
+    color: #66102a!important;
+}
+#header {
+    background-image: url(https://chabadofgreenfield.com/media/images/1160/ibLD11603146.png);
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+}
+#header {
+    border-color: #f47721!important;
+    border-bottom: 7px solid;
+}
+#header.on-scroll, body.sites-article #header {
+    border-bottom: 7px solid!important;
+    border-color: #f47721!important;
+}
+.hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore:hover {
+    background-color: #f47721;
+}
+.hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore {
+    border: 2px solid #f47721;
+}
+.hp-table .hp-row-first .promo_slider .slider .cycle-caption big {
+    color: #f47721;
+}
+.icon .chabad_updates .widget_content .item .icon img, .icon .widget_content .item .icon img {
+    filter: brightness(0) saturate(100%) invert(5%) sepia(72%) saturate(7024%) hue-rotate( 
+338deg
+ ) contrast(95%);
+}
+.sneak-peek-container .sneak_peek .widget_content h6:hover {
+    background: rgb(135 26 57 / 72%);
+}
+.chabad_updates .widget_header.widget_header h5, [class*=widget-] .widget_header.widget_header h5 {
+    color: #871a39;
+}
+.header-title {
+    color: #871a39;
+}
+.hp-table>:nth-of-type(2n) {
+    background: #ECECEC;
+    background-image: url(https://chabadofgreenfield.com/media/images/1160/whxR11603138.png);
+    background-size: cover!important;
+    background-position: center;
+}
+.on-scroll .cs-mobile-menu-open {
+    color: #ffffff;
+}
+@media only screen and (max-width: 500px) {
+body.cco_body #header_branding:not(.branding_wrapper) {
+    width: 320px!important;
+    margin-top: -16px!important;
+    margin-left: -30px!important;
+}
+}
+div#header_branding {
+    margin-left: -150px!important;
+}
+body.cco_body #header_branding:not(.branding_wrapper) {
+    background-size: contain;
+    margin-top: -18px!important;
+    display: block;
+}
+body.cco_body #header_branding:not(.branding_wrapper) {
+    height: 160px!important;
+    margin-left: 0;
+}
+body.cco_body #tabContentMain .co_menu_item.hover span.parent, body.cco_body #tabContentMain .co_menu_item.hover span.parent a, body.cco_body #tabContentMain .co_menu_item.hover.arrow a span {
+    color: #f17521!important;
+}
+body.cco_body #tabContentMain .co_menu_item.hover span.parent a {
+    color: #f17521;
+}
+body #header.on-scroll #tabContentMain .co_menu_item.arrow .co_submenu_container a.item, body #header.on-scroll #tabContentMain .co_menu_item.arrow .co_submenu_container a.item span, body #header.on-scroll .cco_body #tabContentMain .donate_link, body #header.on-scroll body #tabContentMain .co_menu_item span.parent, body #header.on-scroll body #tabContentMain .co_menu_item span.parent a, body #header.on-scroll body #tabContentMain .co_menu_item.hover span.parent, body #header.on-scroll body #tabContentMain .co_menu_item.hover span.parent a, body #header.on-scroll body.cco_body #tabContentMain .co_menu_item span.parent, body #header.on-scroll body.cco_body #tabContentMain .co_menu_item span.parent a, body #header.on-scroll body.cco_body #tabContentMain .co_menu_item.hover span.parent, body #header.on-scroll body.cco_body #tabContentMain .co_menu_item.hover span.parent a, body #header.on-scroll body.cco_body #tabContentMain .co_submenu_container .co_column a, body.cco_body #header.on-scroll #tabContentMain .co_menu_item span.parent, body.cco_body #header.on-scroll #tabContentMain .co_menu_item span.parent a, body.cco_body #header.on-scroll #tabContentMain .co_menu_item.arrow .co_submenu_container a.item, body.cco_body #header.on-scroll #tabContentMain .co_menu_item.arrow .co_submenu_container a.item span, body.cco_body #header.on-scroll #tabContentMain .co_menu_item.hover span.parent, body.cco_body #header.on-scroll #tabContentMain .co_menu_item.hover span.parent a, body.cco_body #header.on-scroll #tabContentMain .co_submenu_container .co_column a, body.cco_body #header.on-scroll #tabContentMain .donate_link, body.cco_body.sites-article #tabContentMain .co_menu_item span.parent, body.cco_body.sites-article #tabContentMain .co_menu_item span.parent a, body.cco_body.sites-article #tabContentMain .co_menu_item.arrow .co_submenu_container a.item, body.cco_body.sites-article #tabContentMain .co_menu_item.arrow .co_submenu_container a.item span, body.cco_body.sites-article #tabContentMain .co_menu_item.hover span.parent, body.cco_body.sites-article #tabContentMain .co_menu_item.hover span.parent a, body.cco_body.sites-article #tabContentMain .co_submenu_container .co_column a, body.cco_body.sites-article #tabContentMain .donate_link, body.sites-article #tabContentMain .co_menu_item.arrow .co_submenu_container a.item, body.sites-article #tabContentMain .co_menu_item.arrow .co_submenu_container a.item span, body.sites-article .cco_body #tabContentMain .donate_link, body.sites-article body #tabContentMain .co_menu_item span.parent, body.sites-article body #tabContentMain .co_menu_item span.parent a, body.sites-article body #tabContentMain .co_menu_item.hover span.parent, body.sites-article body #tabContentMain .co_menu_item.hover span.parent a, body.sites-article body.cco_body #tabContentMain .co_menu_item span.parent, body.sites-article body.cco_body #tabContentMain .co_menu_item span.parent a, body.sites-article body.cco_body #tabContentMain .co_menu_item.hover span.parent, body.sites-article body.cco_body #tabContentMain .co_menu_item.hover span.parent a, body.sites-article body.cco_body #tabContentMain .co_submenu_container .co_column a {
+    color: #ffffff;
+}
+body.cco_body #header.on-scroll #tabContentMain .co_menu_item.hover span.parent a, body.cco_body.sites-article #tabContentMain .co_menu_item.hover span.parent a {
+    color: #e76e21;
+}
+#header.on-scroll #header_container .links:after, body.sites-article #header_container .links:after {
+    color: #ffffff;
+}
+#header.on-scroll #header_container .links .top_bar_item:after, body.sites-article #header_container .links .top_bar_item:after {
+    border-top: 5px solid #ffffff;
+}
+#header.on-scroll #header_container .links .topBarLink, #header.on-scroll #header_container .links .topBarLink a, body.sites-article #header_container .links .topBarLink, body.sites-article #header_container .links .topBarLink a {
+    color: #ffffff;
+}
+#header.on-scroll, body.sites-article #header {
+    background-image: url(https://chabadofgreenfield.com/media/images/1160/ibLD11603146.png);
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+}
+.cs-mobile-menu-open {
+    padding: 15px!important;
+}
+}
+#BodyContainer #co_content_container>.clearfix>.g960:not(.categorized) {
+    background-color: #888888 !important;
+}
+    @media only screen and (min-width: 768px) {
+        body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a,
+        body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a:before {
+            content: "❤ "!important;
+    }
+    }
+div#HeaderSubscribe {
+    font-weight: 700!important;
+}
+body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a, body.cco_body #tabContentMain .co_menu_item.donate_link.hover span.parent a {
+    border: 3px solid #ffffff!important;
+    padding: 8px 17px;
+    border-radius: 50px;
+    background-color: #871a39;
+}
+#header {
+    background-color: #871a39;
+    box-shadow: rgb(0 0 0 / 9%) 0px 2px 1px, rgb(0 0 0 / 9%) 0px 4px 2px, rgb(0 0 0 / 9%) 0px 8px 4px, rgb(0 0 0 / 9%) 0px 16px 8px, rgb(0 0 0 / 9%) 0px 32px 16px !important;
+}
+
+a.site_title {text-indent:-9999em;height: 100px;}
+body.cco_body #header_branding:not(.branding_wrapper) {
+height: 100px; 
+background:url(https://chabadofgreenfield.com/media/images/1160/jCKb11601726.png) no-repeat center center;
+margin-left:0;
+}
+.cco_search_header {float:right}
+#header_branding > div.float_left.right_padding {
+    display: none;
+}
+.site_title {
+    margin-left: 15px !important; 
+}
+body.cco_body #header_branding:not(.branding_wrapper) {
+    background-size: contain;
+    margin-top: 18px;
+    display: block;
+}
+.site-nav-wrapper {
+    margin-top: -33px;
+}
+.header-wrapper {
+    grid-template-areas:
+        "b a"
+        "b c";
+}
+@media only screen and (min-width: 1024px) {
+.on-scroll .header-wrapper {
+    height: inherit;
+    padding-top: inherit;
+}
+#header .content_error, #header.on-scroll #header_container.header_container {
+    display: inherit;
+}
+.on-scroll .header-wrapper {
+    grid-template-areas:
+        "b a"
+        "b c";
+}
+.float_left {
+    float: right;
+}
+}
+div#header {
+    position: fixed;
+}
+a.search-trigger {
+    display: none!important;
+}
+.header-wrapper {
+    height: 120px!important;
+}
+div#BodyContainer {
+    margin-top: -10px!important;
+}
+@media only screen and (max-width: 1025px) {
+div#BodyContainer {
+    padding-top: 50px;
+}
+}
+@media only screen and (max-width: 660px) {
+div#BodyContainer {
+    padding-top: 32px;
+}
+}
+.on-scroll .cs-mobile-menu-open {
+    margin-top: inherit;
+}
+@media only screen and (max-width: 768px) {
+.fa, .fab, .fad, .fal, .far, .fas {
+    margin-top: 25px;
+}
+}
