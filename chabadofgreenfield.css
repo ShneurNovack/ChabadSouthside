@@ -3,7 +3,6 @@ a.readMore {
 }
 .footer_text:after {
     content: "Additional Web Design by ShneurNovack.com";
-    color: #fff;
 }
 .chabad_updates .title, .chabad_updates a {
     text-decoration: none;
