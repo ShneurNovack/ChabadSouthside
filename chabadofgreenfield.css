@@ -314,3 +314,8 @@ div#BodyContainer {
     margin-top: 25px;
 }
 }
+.cs-f-social-icons a:hover {
+    background: #f47721;
+    color: #fff;
+    text-decoration: none;
+}
