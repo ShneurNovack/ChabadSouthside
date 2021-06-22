@@ -1,6 +1,14 @@
-@media (max-width: 480px)
+@media (max-width: 480px) {
 .article_index_container .co_index.article_index .row {
     width: 50%;
+}
+.article_index_container .co_index.article_index .row .item {
+    text-align: center;
+    background: 0 0;
+    padding: 0 10px;
+    margin-bottom: 0px;
+    margin-left: 0;
+}
 }
 .article_index_container .co_index.article_index .row .item .synopsis_icon a.synopsis_icon img {
     background-color: #9e2145;
