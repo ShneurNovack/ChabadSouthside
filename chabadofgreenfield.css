@@ -2,7 +2,7 @@
 body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a, body.cco_body #tabContentMain .co_menu_item.donate_link.hover span.parent a {
     border: 0px solid #ffffff!important;
 }
-    a.readMore {
+a.readMore {
     font-size: 18px!important;
 }
 .footer_text:after {
