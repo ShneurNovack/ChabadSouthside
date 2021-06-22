@@ -1,3 +1,6 @@
+body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container a.item:hover {
+    background-color: #f6a97573;
+}
 body.cco_body #tabContentMain .co_menu_item.hover span.parent, body.cco_body #tabContentMain .co_menu_item.hover span.parent a, body.cco_body #tabContentMain .co_menu_item.hover.arrow a span {
     font-weight: 700;
 }
