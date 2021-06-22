@@ -1,5 +1,4 @@
 body.cco_body #tabContentMain .co_menu_item.hover span.parent, body.cco_body #tabContentMain .co_menu_item.hover span.parent a, body.cco_body #tabContentMain .co_menu_item.hover.arrow a span {
-    color: #f17521!important;
     font-weight: 700;
 }
 a.parent {
