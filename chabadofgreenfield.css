@@ -54,6 +54,9 @@ a.readMore {
     text-align: left;
     padding-top: 60px!important;
 }
+    .hp-table .hp-row-first .promo_slider .slider .cycle-caption big {
+    font-size: 35px;
+}
 }
 body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container {
     top: 0;
