@@ -1,4 +1,6 @@
-
+a.parent {
+    font-weight: 700!important;
+}
 body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a, body.cco_body #tabContentMain .co_menu_item.donate_link.hover span.parent a {
     border: 0px solid #ffffff!important;
 }
