@@ -1,3 +1,6 @@
+body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a, body.cco_body #tabContentMain .co_menu_item.donate_link.hover span.parent a {
+    border: 0px solid #ffffff!important;
+}
 @media (max-width: 480px) {
 .article_index_container .co_index.article_index .row {
     width: 50%;
