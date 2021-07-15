@@ -1,0 +1,311 @@
+div#header {
+    background-image: url(https://chabadofgreenfield.com/media/images/1160/ibLD11603146.png);
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+}
+body.cco_body #tabContentMain .co_menu_item.hover span.parent a {
+    color: #ffffff!important;
+}
+wrapper.header-wrapper {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+div#header_container {
+    background: #f27730;
+    padding: 10px;
+    height: 30px;
+}
+.site-nav-wrapper {
+    margin-right: 20px;
+}
+.header-wrapper {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+a.site_title {
+    padding: 20px;
+}
+@media only screen and (max-width: 1024px) {
+.site-nav-wrapper {
+    margin-right: 0px;
+}
+}
+body.cco_body #header.on-scroll #tabContentMain .co_menu_item.hover span.parent a, body.cco_body.sites-article #tabContentMain .co_menu_item.hover span.parent a {
+    color: #f47721;
+}
+#header_container .links {
+    padding-right: 32px;
+    padding-left: 20px;
+    display: inline-block;
+    padding-bottom: 14px;
+    position: relative;
+    width: 100%;
+}
+#header.on-scroll {
+    box-shadow: inherit;
+    border-bottom: inherit;
+}
+body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a, body.cco_body #tabContentMain .co_menu_item.donate_link.hover span.parent a {
+    border: 0px solid #ffffff;
+    font-weight: 700;
+    padding: 8px 17px;
+    background: #f27730;
+    color: white!important;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a, body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a:before {
+    content: "❤ "!important;
+}
+#tabContentMain .co_menu_item.arrow .co_submenu_container a.item, #tabContentMain .co_menu_item.arrow .co_submenu_container a.item span, .cco_body #tabContentMain .donate_link, body #tabContentMain .co_menu_item span.parent, body #tabContentMain .co_menu_item span.parent a, body #tabContentMain .co_menu_item.hover span.parent, body #tabContentMain .co_menu_item.hover span.parent a, body.cco_body #tabContentMain .co_menu_item span.parent, body.cco_body #tabContentMain .co_menu_item span.parent a, body.cco_body #tabContentMain .co_menu_item.hover span.parent, body.cco_body #tabContentMain .co_menu_item.hover span.parent a, body.cco_body #tabContentMain .co_submenu_container .co_column a {
+    color: #ffffff;
+}
+.branding-search #header_branding .site_title {
+    color: #ffffff!important;
+}
+body.cco_body #tabContentMain .co_menu_item.hover span.parent a {
+    color: #f27730!important;
+}
+    body.cco_body #tabContentMain .co_menu_item.donate_link.hover span.parent div a {
+    color: #580f25!important;
+}
+span.parent {
+    padding: 5px;
+}
+span.parent {
+    padding: 22px 0px!important;
+    height: 3px!important;
+    display: flex!important;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container a.item::before {  
+  transform: scaleX(0);
+  transform-origin: bottom right;
+}
+
+body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container a.item:hover::before {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+body.cco_body #tabContentMain .co_menu_item.multi_level .co_submenu_container a.item::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  inset: 0 0 0 0;
+  background: #c392a0;
+  z-index: -1;
+  transition: transform .3s ease;
+}
+td.co_menu_item.donate_link span.parent:before {
+    background: #ffffff0a!important;
+}
+.co_menu_item.multi_level .co_submenu_container a.item {
+    border-bottom: 1px solid #ffffff;
+    border-top: 1px solid #ffffff;
+}
+div#header {
+    background-image: url(https://chabadofgreenfield.com/media/images/1160/ibLD11603146.png);
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+}
+#header.on-scroll {
+    background-image: url(https://chabadofgreenfield.com/media/images/1160/ibLD11603146.png);
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+}
+a.parent {
+    color: white!important;
+}
+#header.on-scroll {
+    border-bottom: solid 7px #f27730!important;
+}
+#header.on-scroll table.main_menu_container.first.global {
+    margin-top: 7px;
+}
+#header.on-scroll a.site_title {
+    margin-top: 11px;
+}
+.hp-table>:nth-of-type(2n) {
+    background: #ECECEC;
+    background-image: url(https://chabadofgreenfield.com/media/images/1160/whxR11603138.png);
+    background-size: cover!important;
+    background-position: center;
+}
+div#header {
+    box-shadow: rgb(50 50 93 / 25%) 0px 13px 27px -5px, rgb(0 0 0 / 30%) 0px 8px 16px -8px!important;
+}
+@media only screen and (max-width: 600px) {
+#header.on-scroll a.site_title {
+    margin-top: 5px;
+}
+h1.article-header__title.js-article-title.js-page-title {
+    margin-top: 10px;
+}
+div#header {
+    border-bottom: solid 7px #f27730;
+}
+.on-scroll .cs-mobile-menu-open {
+    margin-top: 5px!important;
+}
+div#header {
+    border-bottom: solid 7px #f27730;
+}
+i.fa.fa-bars {
+    margin-top: 6px;
+}
+}
+.on-scroll .cs-mobile-menu-open {
+    color: #ffffff;
+}
+span.parent {
+    padding: 5px!important;
+}
+@media only screen and (max-width: 1024px) {
+#header.on-scroll a.site_title {
+    margin-top: 5px;
+}
+.site-nav-wrapper {
+    background: #8917388c;
+    backdrop-filter: blur(7px);
+}
+}
+.wrapper.header-wrapper {
+    background-image: url(https://chabadofgreenfield.com/media/images/1160/ibLD11603146.png);
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+}
+#header.on-scroll, body.sites-article #header {
+    background: #530f23;
+    border-bottom: 0px solid #530f23;
+}
+#header.on-scroll #header_container .links .topBarLink, #header.on-scroll #header_container .links .topBarLink a, body.sites-article #header_container .links .topBarLink, body.sites-article #header_container .links .topBarLink a {
+    color: #ffffff;
+}
+#header.on-scroll #header_container .links .search-trigger-container .search-trigger, body.sites-article #header_container .links .search-trigger-container .search-trigger {
+    color: #ffffff;
+}
+#header.on-scroll #header_container .links .top_bar_item:after, body.sites-article #header_container .links .top_bar_item:after {
+    border-top: 5px solid #ffffff;
+}
+#header.on-scroll #header_container .links:after, body.sites-article #header_container .links:after {
+    color: #ffffff;
+}
+body.cco_body #tabContentMain .co_menu_item.selected a.parent:after {
+    background: #f27730;
+}
+body.cco_body #header.on-scroll #tabContentMain .co_menu_item.selected.hover a.parent:after, body.cco_body.sites-article #tabContentMain .co_menu_item.selected.hover a.parent:after {
+    background: #ffffff;
+}
+body.cco_body #tabContentMain .co_menu_item.hover span.parent a {
+    border-bottom: solid 2px #f27730;
+}
+body.cco_body #header.on-scroll #tabContentMain .co_menu_item.selected.hover a.parent:after, body.cco_body.sites-article #tabContentMain .co_menu_item.selected.hover a.parent:after {
+    display: none;
+}
+#BodyContainer .no-hero-image #co_content_container .master-content-wrapper.master-content-wrapper {
+    background-image: url(https://chabadofgreenfield.com/media/images/1160/whxR11603138.png)!important;
+    background-size: cover!important;
+    background-position: center!important;
+}
+#BodyContainer .no-hero-image #co_content_container .master-content-wrapper.master-content-wrapper .article-header .article-header__title {
+    color: #871a39;
+}
+.not-homepage body .cs-mobile-menu-open, body:not(.home) .cs-mobile-menu-open {
+    color: #ffffff;
+}
+#BodyContainer .no-hero-image #co_content_container .master-content-wrapper.master-content-wrapper {
+    border-bottom: 5px solid #871a39;
+}
+.hp-row {
+    padding: 100px 10px;
+}
+div#footer {
+    background-image: url(https://chabadofgreenfield.com/media/images/1160/ibLD11603146.png);
+    background-size: cover;
+    background-position: center;
+}
+.article_index_container .co_index.article_index .row .item .title {
+    background: #871a39;
+}
+    }
+    .hp_subscribe .wrapper .widget_header h5 {
+        font-family: 'Poppins' !important;
+    }
+    .hp_subscribe .wrapper #formContainer fieldset input[type=submit] {
+        border-color: #ffffff;
+        background: #ffffff;
+        color: #680020;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-family: 'Poppins';
+        font-size: 18px;
+    }
+    .footer_text:after {
+        content: "Additional Web Design by ShneurNovack.com";
+    }
+    body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a,
+    body.cco_body #tabContentMain .co_menu_item.donate_link.hover span.parent a {
+        width: max-content;
+    }
+    .hp-row.hp_subscribe {
+        background: url(https://chabadwestboca.com/media/images/1123/KOpR11234802.jpg?v3);
+        background-size: cover;
+    }
+    .hp_subscribe .wrapper .widget_header h5 {
+        color: #690222;
+    }
+    .hp_subscribe .wrapper #formContainer fieldset input::-webkit-input-placeholder {
+        color: var(--primary-color);
+    }
+    .hp_subscribe .wrapper #formContainer fieldset input[type=submit] {
+        border-color: #690222;
+        background: #690222;
+        color: #ffffff;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-family: 'Poppins';
+        font-size: 18px;
+        border: 0px;
+    }
+    .hp_subscribe .wrapper #formContainer fieldset input[type=submit]:hover {
+        border-color: #ffffff;
+        background: #ffffff;
+        color: #891738;
+    }
+    }
+    .hp-row.hp_subscribe {
+        box-shadow: rgb(0 0 0 / 40%) 0px 30px 90px;
+    }
+big {
+    font-size: 40px!important;
+}
+a.readMore {
+    font-size: 20px!important;
+    margin-top: 30px!important;
+}
+.hp-row.hp-row-first {
+    margin-top: 60px;
+}
+.hp-table>:not(:first-child) .promo_slider .cycle-caption p big {
+    font-size: 28px!important;
+}
+#footer .footer_text .footer3, #footer .footer_text .footer3 b {
+    color: #ffffff;
+    font-size: 18px;
+    padding-bottom: 10px;
+    font-weight: 700!important;
+    font-family: Muli, sans-serif;
+}
+.hp-row.hp_subscribe {
+    box-shadow: rgb(50 50 93 / 25%) 0px -7px 100px -20px, rgb(0 0 0 / 30%) 0px -14px 60px -30px;
+}
