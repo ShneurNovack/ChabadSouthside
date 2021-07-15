@@ -1,13 +1,31 @@
 <iframe id="header" src="https://www.chabaduchicago.com/art2u" name="iFrame Name" scrolling="No" height="318px" width="100%" style="border: none;"></iframe>
-
+<div id="headerMobile">
+<div id="logo"><img src="https://github.com/ShneurNovack/Hosting/blob/gh-pages/chabadulogo.PNG?raw=true" style="display: block; margin-left: auto; margin-right: auto;" /></div>
+<div id="button"><a href="https://www.chabaduchicago.com/"><img src="https://github.com/ShneurNovack/Hosting/blob/gh-pages/mainm.PNG?raw=true" style="display: block; margin-left: auto; margin-right: auto;" /></a></div>
+</div>
+<style>
+#button {
+    background: #800000!important;
+    width: 100%;
+}
+</style>
 <style>
 @media only screen and (max-width: 600px) {
+#headerMobile {
+    display: block;
+    }
 #header {
-    -webkit-transform: scale(3);
-    height: 570px;
-    -webkit-transform-origin-y: top;
-}
-}
+    display: none;
+    }
+    }
+@media only screen and (min-width: 600px) {
+#headerMobile {
+    display: none;
+    }
+#header {
+    display: block;
+    }
+    }
 </style>    
     
 <script>
