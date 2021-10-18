@@ -159,7 +159,7 @@ wrapper.header-wrapper {
     padding-left: 0px;
     padding-right: 0px;
 }
-div#header_container {
+div#header_container { 
     background: #02afe1;
     padding: 10px;
     height: 30px;
