@@ -2,10 +2,23 @@
 <div id="shabbatTimes">
 <div id="Title">Shabbat Times For This Week</div>
 <script type="text/javascript" language="javascript" src="//www.chabad.org/tools/shared/candlelighting/candlelighting.js.asp?city=243&ln=2&weeks=1"></script></div>
+        
+        <div id="clockMain"><div id="clock" onload="currentTime()">&nbsp;</div></div>
     </div>
+<script src="https://hosting.shneurnovack.com/time2.js"> </script>
 <style type="text/css">.CLTime {
     font-size: 35px;
     font-family: poppins;
+}
+body {
+    margin: 0!important;
+}
+div#main {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-image: url(https://www.chabadone.org/media/Images/1096/SmkO10965038.jpg);
 }
 div#shabbatTimes {
     width: 610px;
@@ -43,17 +56,19 @@ a.CLheading.clmore {
     font-size: 11px;
 }
 div#shabbatTimes {
-    background: #67112a;
+    background: #ffffffa3;
     border-radius: 30px;
+    backdrop-filter: blur(4px);
+    box-shadow: rgb(0 0 0 / 21%) 0px 5px 15px;
 }
 .CLTime {
-    color: #fff;
+    color: #000;
 }
 a.CLLink {
     color: #fff;
 }
 div#Title {
-    color: #fff;
+    color: #000;
     font-size: 32px;
     font-family: poppins;
     display: flex;
@@ -61,5 +76,8 @@ div#Title {
     font-weight: 500;
     margin-bottom: -28px;
     padding-top: 10px;
+}
+.CLTime {
+    margin-bottom: -10px;
 }
 </style>
