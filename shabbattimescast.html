@@ -3,7 +3,10 @@
 <div id="Title">Shabbat Times For This Week</div>
 <script type="text/javascript" language="javascript" src="//www.chabad.org/tools/shared/candlelighting/candlelighting.js.asp?city=243&ln=2&weeks=1"></script></div>
         
-        <div id="clockMain"><div id="clock" onload="currentTime()">&nbsp;</div></div>
+        <div id="clockMain">
+            <div id="Title" class="time">Current Time</div>
+<div id="clock" onload="currentTime()">&nbsp;</div>
+        </div>
     </div>
 <script src="https://hosting.shneurnovack.com/time2.js"> </script>
 <style type="text/css">.CLTime {
@@ -19,6 +22,22 @@ div#main {
     height: 100%;
     width: 100%;
     background-image: url(https://www.chabadone.org/media/Images/1096/SmkO10965038.jpg);
+    flex-direction: column;
+    justify-content: center;
+}
+div#clock {
+    color: #000;
+    font-size: 35px;
+    font-family: poppins;
+    display: flex;
+    justify-content: center;
+}
+div#clockMain {
+    background: #ffffffa3;
+    border-radius: 30px;
+    backdrop-filter: blur(4px);
+    box-shadow: rgb(0 0 0 / 21%) 0px 5px 15px;
+    padding: 20px;
 }
 div#shabbatTimes {
     width: 610px;
@@ -26,7 +45,6 @@ div#shabbatTimes {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin: auto;
 }
 a {
     display: none!important;
@@ -79,5 +97,13 @@ div#Title {
 }
 .CLTime {
     margin-bottom: -10px;
+}
+div#clockMain {
+    background: #ffffffa3;
+    border-radius: 30px;
+    backdrop-filter: blur(4px);
+    box-shadow: rgb(0 0 0 / 21%) 0px 5px 15px;
+    padding: 20px;
+    margin-top: 25px;
 }
 </style>
