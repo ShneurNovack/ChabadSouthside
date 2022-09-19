@@ -1,0 +1,302 @@
+    .fs-header-top .fs-logo-container:after, .fs-header-top .fs-logo-container:before {
+    position: absolute;
+    background: none!important;
+    border: none!important;
+    width: 7px;
+    height: 36px;
+    z-index: 14;
+    content: " ";
+    top: 0;
+    left: -5px;
+    }
+.fs-partner-name {
+    color: #094030!important;
+    }
+    .fs-partner {
+    background: #cb9c28!important;
+    padding: 15px!important;
+    border-radius: 0px!important;
+    border-top: solid 4px #094030;
+    color: #094030!important;
+    }
+    .fs-partners .fs-partner-container {
+    width: 92%!important;
+    padding: 9px!important;
+    height: 87px!important;
+    }
+    .fs-partners h3 {
+    font-size: 0px!important;
+    }
+    h3.fs-copyright:after {
+    content: "Additional web design by ShneurNovack.com";
+    display: flex;
+    margin-top: 8px;
+    }
+    a#showAllDonorsButton:before {
+    content: "view full caring wall";
+    font-size: 16px;
+    }
+    a#showAllDonorsButton {
+    font-size: 0px;
+    }
+    .fs-partners h3 span {
+    font-size: 0;
+    }
+    .fs-partners h3 span:before {
+    content: "Caring Wall";
+    font-size: 30px;
+    }
+    .fs-goal-graph-fill {
+    background: #094030!important;
+    }
+    .fs-partner {
+    background: #cb9c28!important;
+    }
+    .fs-partner-donation-amount {
+    }
+    .fs-partner-name {
+    }
+    .fs-logo-container {
+    border: 4px solid #cb9c28!important;
+    }
+    h4 {
+    color: #cb9c28!important;
+    }
+    h3 {
+    color: #094030!important;
+    }
+    strong.js-viewport-in.a-delay-100ms:after {
+    color: #094030;
+    }
+    @media (max-width: 550px) {
+    .fs-header-top .fs-top-tools .fs-btn {
+    display: inline-block!important;
+    }
+    a.at-icon-wrapper.at-share-btn.at-svc-facebook {
+    display: none;
+    }
+    a.at-icon-wrapper.at-share-btn.at-svc-twitter {
+    display: none;
+    }
+    }
+    .fs-donate .fs-donate-amounts {
+    color: #fff!important;
+    }
+    .fs-donate .fs-donate-amounts {
+    color: #ffffff;
+    padding: 20px;
+    background: #094030;
+    border-radius: 20px;
+    }
+    .col-md-6.fs-countdown.text-center.d-js-viewport-in {
+    display: none;
+    }
+    .col-md-6.fs-donate.fs-donatable.text-center.vertical-align.d-js-viewport-in {
+    width: 100%;
+    }
+    .donate-flex {
+    display: none;
+    }
+    h2.js-viewport-in.a-delay-400ms {
+    font-size: 20px;
+    }
+    svg.svg-content {
+    display: none;
+    }
+    button.btn.fs-btn.fs-btn-read-more.js-btn-read-more {
+    display: none;
+    }
+    .col-md-6.fs-donate.fs-donatable.text-center.vertical-align.d-js-viewport-in {
+    display: flex;
+    flex-direction: column;
+    }
+    input.fs-amount.js-multiply-input.js-donation-box-input.active {
+    width: 80%;
+    }
+    .col-md-6.fs-donate.fs-donatable.text-center.vertical-align.d-js-viewport-in {
+    width: 60%;
+    border-radius: 20px;
+    background: #cb9c28;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    }
+    a.btn.fs-btn.js-action-open-donate {
+    background: #094030;
+    }
+    .fs-donate .fs-donate-amounts {
+    color: #094030;
+    }
+    .col-md-6.fs-donate.fs-donatable.text-center.vertical-align.d-js-viewport-in {
+    border: solid 10px #094030;
+    margin: auto;
+    }
+    .fs-goal {
+    background: #cb9c28;
+    padding: 0;
+    border-bottom: solid 10px #094030;
+    box-shadow: rgb(50 50 93 / 25%) 0px 13px 27px -5px, rgb(0 0 0 / 30%) 0px 8px 16px -8px;
+    }
+    strong.js-viewport-in.a-delay-100ms {
+    color: #012169;
+    }
+    .fs-header:before {
+    background: #094030;
+    }
+    .fs-header, .fs-header-top {
+    border-bottom: none;
+    }
+    .fs-header .page-header h1 small {
+    color: #cb9c28;
+    }
+    .fs-header .page-header h2 {
+    color: #cb9c28;
+    }
+    .fs-partners>div {
+    border-top: 8px solid #094030;
+    }
+    .fs-partners h3 span {
+    font-family: "Patua One",cursive;
+    color: #094030;
+    }
+    .fs-campaign-info {
+    margin-bottom: 30px;
+    }
+    .jumbotron {
+    padding-top: 20px!important;
+    padding-bottom: 20px!important;
+    }
+    .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.fs-other label.selected, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.selected .fs-option-name>div {
+    background: #f47321;
+    }
+    .fs-full-donate-form .fs-donate-body .fs-donate-section h3 {
+    color: #094030;
+    }
+    @media only screen and (max-width: 800px) {
+    .col-md-6.fs-donate.fs-donatable.text-center.vertical-align.d-js-viewport-in {
+    width: 100%;
+    }
+    .container-fluid.fs-header-top:before {
+    content: "ב'ה";
+    color: #fff;
+    display: flex;
+    position: absolute;
+    right: 50px;
+    font-family: Raleway,sans-serif;
+    font-size: 15px;
+    }
+    .container-fluid.fs-header-top {
+    padding-top: 20px;
+    }
+    .fs-logo-container {
+    margin-bottom: -20px!important;
+    z-index: 300!important;
+    position: relative!important;
+    }
+    .jumbotron {
+    padding-top: 0px!important;
+    }
+    .fs-logo-container {
+    margin-top: 20px;
+    }
+    .fs-header-top .fs-logo-container .fs-logo {
+    width: 100px;
+    height: auto;
+    }
+    .fs-top-tools-buttons {
+    position: fixed;
+    z-index: 3;
+    bottom: 5px;
+    background: #cb9c28;
+    width: 80%;
+    margin: 10px;
+    padding: 6px;
+    border-radius: 20px;
+    box-shadow: rgb(50 50 93 / 25%) 0px 13px 27px -5px, rgb(0 0 0 / 30%) 0px 8px 16px -8px;
+    }
+    .fs-logo-container {
+    display: block!important;
+    margin: auto;
+    }
+    h4 {
+    font-size: 20px!importANT;
+    }
+    h2.js-viewport-in.a-delay-400ms {
+    font-size: 16px;
+    }
+    }
+    h2.js-viewport-in.a-delay-400ms {
+    margin-top: -4px;
+    }
+    .container-fluid.fs-goal {
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-left: solid 10px #094030;
+    border-right: solid 10px #094030;
+    }
+    .jumbotron.fs-header {
+    width: 95%;
+    margin: auto;
+    }
+    .container-fluid.fs-goal {
+    width: 95%;
+    margin: auto;
+    }
+    .container-fluid.fs-header-top {
+    background-color: #094030;
+    width: 95%;
+    margin: auto;
+    }
+    .fs-header-top .fs-top-tools .fs-btn {
+    background: #cb9c28;
+    font-weight: 600;
+    color: #fff;
+    }
+    svg {
+    fill: #094030!important;
+    }
+    a.at-icon-wrapper {
+    background: #fff!important;
+    }
+    .text-center {
+    margin: 10px;
+    width: 100%;
+    margin-bottom: 20px;
+    }
+    .container.text-center {
+    margin: auto;
+    }
+    .text-center {
+    margin: auto;
+    margin-bottom: 20px;
+    }
+    div#BaruchHashem {
+    color: #fff;
+    }
+    .at-share-btn-elements {
+    margin-right: 30px;
+    }
+    strong.js-viewport-in.a-delay-100ms {
+    font-size: 0;
+    }
+    strong.js-viewport-in.a-delay-100ms:after {
+    content: "Funds Needed: ";
+    font-size: 31px;
+    }
+    .fs-about h4 {
+    font-size: 1.7em;
+    color: #f2a900;
+    font-family: "Patua One",cursive;
+    }
+    .fs-header-top .fs-logo-container {
+    position: absolute;
+    height: fit-content;
+    z-index: 3;
+    top: 0;
+    text-align: center;
+    width: fit-content;
+    background: none!important;
+    border: none!important;
+    }
+    .fs-header-top .fs-logo-container:after {
+    left: 0;
+    right: 0;
+    }
