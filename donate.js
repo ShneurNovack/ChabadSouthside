@@ -1,4 +1,5 @@
 //donate page
+window.onload = function() {
 var pathArray = window.location.pathname.split('/');
 
 var urlP = pathArray[2];
@@ -33,4 +34,5 @@ footer.style.display = "none";
 content.style.margin = "0px";
 }
 
+}
 }
