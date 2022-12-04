@@ -1,0 +1,64 @@
+path.clock-cap {
+    display: none;
+}
+.outer-circle[data-v-10519cfd] {
+    fill: #080045!important;
+}
+button.bttn-ok {
+    border-radius: 0 !important;
+}
+button.bttn-cancel {
+    border-radius: 0 !important;
+    border: solid 3px #ffaf00 !important;
+}
+button.bttn-cancel, button.bttn-ok, h2.social-block__title, h2, h4, .mode-2 .countdown-block .stats .stats__original-stats p {
+    font-weight: 900!important;
+    font-family: poppins !important;
+    text-transform: uppercase !important;
+    letter-spacing: 1px !important;
+}
+.donate-block, .donate-window, .bttn, .social-block, div#__BVID__215, dl.public-data, .countdown-block, .matcher-slider, .info-block {
+    border-radius: 0 !important;
+}
+.progress.custom-progress {
+    background: #ffffff3d !important;
+    border-radius: 0 !important;
+}
+.mode-2 .social-block .social-button button {
+	background-color: #080045!important;
+    border: solid #f9ab00 3px;
+}
+.info-block {
+    background: #080045 !important;
+}
+.nav-link.active {
+    background-color: #080045 !important;
+    color: #ffaf00 !important;
+    border: none !important;
+}
+.nav-tabs {
+    background: rgb(255 175 0)!important;
+}
+.donors-widget {
+    background-color: #080045 !important;
+}
+.countdown-block, .matcher-slider, .donate-block, .social-block, .public-data, .sticky-footer-wrap {
+    border-top: solid #ffaf00 13px !important;
+}
+dl.public-data.public-data__theme-standard {
+    display: none;
+}
+.stats {
+    padding: 0 !important;
+}
+.donors-widget-donor {
+    color: #fff !important;
+}
+p.donors-widget-donor__name, .amount {
+    color: #ffaf00 !important;
+    font-family: poppins !important;
+    font-weight: 700 !important;
+}
+.donors-widget, input.search-bar__control {
+    border-radius: 0px !important;
+}
