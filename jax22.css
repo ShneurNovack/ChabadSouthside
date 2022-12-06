@@ -11,7 +11,7 @@ button.bttn-cancel {
     border-radius: 0 !important;
     border: solid 3px #ffaf00 !important;
 }
-button.bttn-cancel, button.bttn-ok, h2.social-block__title, h2, h4, .mode-2 .countdown-block .stats .stats__original-stats p {
+button.bttn-cancel, button.bttn-ok, h2.social-block__title, h2, h4, .mode-2 .countdown-block .stats .stats__original-stats p, button.bttn.bttn--standard.bttn--lg.bttn--red.shadow-main, button.bttn.bttn--standard.bttn--lg.bttn--blue.shadow-main {
     font-weight: 900!important;
     font-family: poppins !important;
     text-transform: uppercase !important;
@@ -61,4 +61,63 @@ p.donors-widget-donor__name, .amount {
 }
 .donors-widget, input.search-bar__control {
     border-radius: 0px !important;
+}
+.teams-widget {
+    background-color: #080045!important;
+    border-radius: 0px!important;
+    color: #fff !important;
+}
+h2.teams-widget-header__title {
+    color: #ffaf00 !important;
+}
+p.p-main {
+    color: #fff !important;
+}
+span.name {
+    color: #fff !important;
+}
+p.teams-widget-team__amount.keep-ltr {
+    color: #ffaf00 !important;
+}
+.nav-item .active {
+    color: #ffaf00 !important;
+}
+.progress-bar.custom-progress__primary.bg-c-primary {
+    background-color: #ffaf00 !important;
+}
+.progress.custom-progress {
+    border: solid #ffaf00 !important;
+    height: 20px !important;
+    background: none !important;
+}
+.mode-2 .area-main__info > .tabs .nav-item .nav-link.active {
+    color: #ffaf00 !important;
+}
+.progress-bar.custom-progress__primary.bg-c-primary {
+    border-radius: 0px;
+}
+a.time__team-link {
+    color: #ffaf00 !important;
+}
+.control-bar-v2__nav {
+    display: none!important;
+}
+.progress-bar.custom-progress__primary {
+    background: #080045 !important;
+}
+h2.donors__title {
+    color: #ffaf00 !important;
+}
+.avatar {
+    color: #080045 !important;
+    background: #ffaf00 !important;
+}
+.swiper-button-prev, .swiper-button-next {
+    --swiper-navigation-color: #080045 !important;
+}
+button.bttn.bttn-link.bttn-link--underline.bttn-link--no-bg {
+    color: #ffaf00 !important;
+}
+.swiper-scrollbar-drag {
+    background-color: #080045 !important;
 }
