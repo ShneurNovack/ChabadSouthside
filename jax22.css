@@ -128,8 +128,8 @@ body {
     --secondary-color: #ffaf00 !important;
 }
 .round-body__image {
-    background: #ffffff8f;
-    border-radius: 100px;
+    background: #ffffff8f!important;
+    border-radius: 100px!important;
 }
 .dot.ltr {
     background: #51b748 !important;
