@@ -121,3 +121,21 @@ button.bttn.bttn-link.bttn-link--underline.bttn-link--no-bg {
 .swiper-scrollbar-drag {
     background-color: #080045 !important;
 }
+.round-header {
+    background: #fdae00 !important;
+}
+body {
+    --secondary-color: #ffaf00 !important;
+}
+.round-body__image {
+    background: #ffffff8f;
+    border-radius: 100px;
+}
+.dot.ltr {
+    background: #51b748 !important;
+}
+.round {
+    border-radius: 0px !important;
+}
+
+
