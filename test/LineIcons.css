@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'LineIcons';
-  src:  url('https://www.shneurnovack.com/LineIcons.eot?y2l643');
-  src:  url('https://www.shneurnovack.com/LineIcons.eot?y2l643#iefix') format('embedded-opentype'),
-    url('https://www.shneurnovack.com/LineIcons.ttf?y2l643') format('truetype'),
-    url('https://www.shneurnovack.com/LineIcons.woff?y2l643') format('woff'),
-    url('https://www.shneurnovack.com/LineIcons.svg?y2l643#LineIcons') format('svg');
+  src:  url('https://hosting.shneurnovack.com/test/LineIcons.eot?y2l643');
+  src:  url('https://hosting.shneurnovack.com/test/LineIcons.eot?y2l643#iefix') format('embedded-opentype'),
+    url('https://hosting.shneurnovack.com/test/LineIcons.ttf?y2l643') format('truetype'),
+    url('https://hosting.shneurnovack.com/test/LineIcons.woff?y2l643') format('woff'),
+    url('https://hosting.shneurnovack.com/test/LineIcons.svg?y2l643#LineIcons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
