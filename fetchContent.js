@@ -24,7 +24,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
                 if (titleElement && dateElement && imageElement) {
                     const title = titleElement.innerText.trim();
-                    const date = new Date(dateElement.innerText.trim()).toISOString().split('T')[0];
+                    const rawDate = dateElement.innerText.trim();
+                    const date = parseDate(rawDate);
                     const image = imageElement.src;
 
                     result.push({
@@ -40,6 +41,15 @@ document.addEventListener('DOMContentLoaded', function() {
             console.error('Error fetching and parsing HTML:', error);
             return [];
         }
+    };
+
+    // Function to parse date in the format "Month DD - YYYY"
+    const parseDate = (rawDate) => {
+        const [month, day, year] = rawDate.replace('-', '').split(' ');
+        const monthIndex = new Date(`${month} 1`).getMonth() + 1;
+        const paddedMonth = monthIndex.toString().padStart(2, '0');
+        const paddedDay = day.padStart(2, '0');
+        return `${year}-${paddedMonth}-${paddedDay}`;
     };
 
     // Fetch all URLs and parse their content
